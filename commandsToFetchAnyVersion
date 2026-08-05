@@ -1,0 +1,7 @@
+Repeat
+git log
+
+git checkout 1234abc
+
+
+dvc pull 
